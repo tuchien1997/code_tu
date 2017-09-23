@@ -1,0 +1,4 @@
+ ajax
+ áp dụng để kéo đến đâu tải đến đó
+ hay là vd như ấn vào nút thì cho phép tải dl 
+ 
